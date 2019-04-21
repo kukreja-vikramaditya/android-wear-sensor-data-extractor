@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "168875413514",
+    "firebase_url": "https://wear-tracker-shrehal.firebaseio.com",
+    "project_id": "wear-tracker-shrehal",
+    "storage_bucket": "wear-tracker-shrehal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168875413514:android:dc64d4c14aa0d2a9",
+        "android_client_info": {
+          "package_name": "com.macbitsgoa.track"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "168875413514-dhl0s7q0kra7t5or776853m7igs6rc7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-58Vc5GdV5h-GO-Fwyypox-7GRX6Ue9k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
